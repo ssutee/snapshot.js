@@ -77,6 +77,16 @@
     "ws": ["wss://ws.dome.cloud"],
     "explorer": "https://exp.tch.in.th"
   },
+  "17": {
+    "key": "17",
+    "name": "META Chain",
+    "chainId": 17,
+    "network": "mainnet",
+    "multicall": "0x8107B970fE100B6E81AE449bb86Ed4cF1686242C",
+    "rpc": ["https://rpc.metachain.asia"],
+    "ws": ["wss://ws.metachain.asia"],
+    "explorer": "https://exp.metachain.asia"
+  },
   "30": {
     "key": "30",
     "name": "RSK Mainnet",
@@ -514,7 +524,7 @@
     "rpc": ["https://palm-mainnet.infura.io/v3/3a961d6501e54add9a41aa53f15de99b"],
     "explorer": "https://explorer.palm.io"
   },
-   "333888": {
+  "333888": {
     "key": "333888",
     "name": "Polis Sparta",
     "shortName": "Sparta",
@@ -525,7 +535,7 @@
     "rpc": ["https://sparta-rpc.polis.tech"],
     "explorer": "https://sparta-explorer.polis.tech"
   },
-   "333999": {
+  "333999": {
     "key": "333999",
     "name": "Polis Olympus",
     "shortName": "Olympus",
@@ -535,7 +545,7 @@
     "rpc": ["https://rpc.polis.tech"],
     "explorer": "https://explorer.polis.tech"
   },
-    "1285": {
+  "1285": {
     "key": "1285",
     "name": "Moonriver (Kusama)",
     "shortName": "Moonriver",
@@ -545,7 +555,7 @@
     "rpc": ["https://rpc.moonriver.moonbeam.network"],
     "explorer": "https://blockscout.moonriver.moonbeam.network/"
   },
-    "25": {
+  "25": {
     "key": "25",
     "name": "Cronos Mainnet",
     "shortName": "Cronos",
